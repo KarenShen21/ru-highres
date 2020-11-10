@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Smith Lab ignore (till we get datalad working!)
+bids
+derivatives
