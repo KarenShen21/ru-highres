@@ -131,3 +131,4 @@ dmypy.json
 # Smith Lab ignore (till we get datalad working!)
 bids
 derivatives
+.DS_Store
